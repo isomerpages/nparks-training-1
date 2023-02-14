@@ -20,3 +20,4 @@ description: ""
 
 [Google](www.google.com)
 
+![test](/images/isomer-logo.svg)
